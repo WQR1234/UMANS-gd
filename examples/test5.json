@@ -1,0 +1,22 @@
+{
+	"StartNav": false,
+	"Fps": 60,
+	"Agents": [
+		
+	],
+	"Obstacles": {
+		"Walls": [
+			{"Pos": [-0.5, -9], "Size": [12, 1]}, 
+			{"Pos": [-0.5, 8], "Size": [12, 1]},
+			{"Pos": [-6, -0.5], "Size": [1, 16]},
+			{"Pos": [5, 4], "Size": [1, 7]},
+			{"Pos": [5, -5], "Size": [1, 7]}
+		]
+	},
+	"CostFunctions": [
+		{
+			"Name": "SocialForcesAvoidance", "Weight": 2
+		},
+		{"Name": "GoalReachingForce", "Weight": 1}
+	] 
+}

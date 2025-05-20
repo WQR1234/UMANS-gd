@@ -1,10 +1,27 @@
-[gd_scene load_steps=3 format=3 uid="uid://bau7307l4pu64"]
+[gd_scene load_steps=8 format=3 uid="uid://bau7307l4pu64"]
+
+[ext_resource type="Texture2D" uid="uid://baoo0yfuye26b" path="res://Assets/wall_033_Base_Color.png" id="1_0dv0i"]
+[ext_resource type="Texture2D" uid="uid://di6nu4au2nka2" path="res://Assets/wall_033_Ambient_Occlusion.png" id="2_0xsiy"]
+[ext_resource type="Texture2D" uid="uid://cixe1m3qes6pv" path="res://Assets/wall_033_Height.png" id="3_g4b4r"]
+[ext_resource type="Texture2D" uid="uid://m8n7k2e1ev1" path="res://Assets/wall_033_Normal.png" id="4_jp0x0"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0dv0i"]
+albedo_texture = ExtResource("1_0dv0i")
+normal_enabled = true
+normal_texture = ExtResource("4_jp0x0")
+ao_enabled = true
+ao_light_affect = 0.4
+ao_texture = ExtResource("2_0xsiy")
+heightmap_enabled = true
+heightmap_texture = ExtResource("3_g4b4r")
+uv1_scale = Vector3(3, 3, 3)
 
 [sub_resource type="BoxMesh" id="BoxMesh_xlbgo"]
+material = SubResource("StandardMaterial3D_0dv0i")
 size = Vector3(1, 2, 1)
 
-[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_aq4ux"]
-points = PackedVector3Array(-0.5, -1, -0.5, -0.5, -1, 0.5, -0.5, 1, -0.5, 0.5, -1, -0.5, 0.5, -1, 0.5, -0.5, 1, 0.5, 0.5, 1, -0.5, 0.5, 1, 0.5)
+[sub_resource type="BoxShape3D" id="BoxShape3D_0dv0i"]
+size = Vector3(1, 2, 1)
 
 [node name="Obstacle" type="StaticBody3D"]
 collision_layer = 2
@@ -14,4 +31,4 @@ collision_mask = 0
 mesh = SubResource("BoxMesh_xlbgo")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="."]
-shape = SubResource("ConvexPolygonShape3D_aq4ux")
+shape = SubResource("BoxShape3D_0dv0i")

@@ -115,7 +115,7 @@ public partial class Agent : CharacterBody3D
         _trackTimer.Start();
 
 
-        GD.Print("agent: "+this.Name+" ready");
+        // GD.Print("agent: "+this.Name+" ready");
     }
 
     /// <summary>
@@ -183,7 +183,7 @@ public partial class Agent : CharacterBody3D
         
         // GD.Print(this.Name+" process");
         
-        ShowTrackAndTarget();
+        // ShowTrackAndTarget();
         
         // EmitRays(out _, out _, true);
 
@@ -215,7 +215,7 @@ public partial class Agent : CharacterBody3D
         if (!_hasOutputCSV && HasReachedGoal())
         {
             _hasOutputCSV = true;
-            WriteVelocityToCSV();
+            // WriteVelocityToCSV();
         }
 
         // GD.Print(Name+" move to "+Goal);
@@ -383,6 +383,8 @@ public partial class Agent : CharacterBody3D
         {
             Velocity -= 5f*(float)delta*Velocity.Project(collision.GetNormal());
         }
+
+        // Velocity = new Vector3(Velocity.X, 0, Velocity.Z);
     }
 
     /// <summary>
@@ -393,7 +395,7 @@ public partial class Agent : CharacterBody3D
         // GD.Print("v: "+Velocity);
 
         if (Velocity.LengthSquared()>=0.025f &&
-            (_trackPoints.Count == 0 || Position.DistanceSquaredTo(_trackPoints[^1]) >= 0.0001f))
+            (_trackPoints.Count == 0 || Position.DistanceSquaredTo(_trackPoints[^1]) >= 0.001f))
         {
             Vector3 target = new Vector3(Velocity.X, 0, Velocity.Z);
             _modelNode.Basis = Basis.LookingAt(target, useModelFront: true);

@@ -32,7 +32,7 @@ public class SocialForcesAvoidance: CostFunction
         }
 
         var origin = _agent.Position + Vector3.Up * 0.2f;
-        DebugDraw3D.DrawArrow(origin, origin+agentForces*5, new Color(0, 1, 0), 0.2f);
+        // DebugDraw3D.DrawArrow(origin, origin+agentForces*5, new Color(0, 1, 0), 0.2f);
         
         // GD.Print(_agent.Name+": "+agentForces+" V: "+_agent.Velocity);
 

@@ -75,9 +75,20 @@ public partial class World : Node
 
 		// wallInstance.Position = new Vector3(position.X, 0, position.Y);
 		// wallInstance.Scale = new Vector3(size.X, 1, size.Y);
+		// GD.Print(position, size);
 
 		wallInstance.Position = position;
 		wallInstance.Scale = size;
+		
+		// var wallMeshInstance = wallInstance.GetNode<MeshInstance3D>("MeshInstance3D");
+		// var wallMesh = wallMeshInstance.Mesh as BoxMesh;
+		// wallMesh.Size = size;
+		// // wallInstance.Scale = size;
+		//
+		// var wallCollisionShape = wallInstance.GetNode<CollisionShape3D>("CollisionShape3D");
+		// var wallShape = wallCollisionShape.Shape as BoxShape3D;
+		// wallShape.Size = size;
+		
 		wallInstance.Name = "wall" + id;
 		
 		_navigationRegion.AddChild(wallInstance);

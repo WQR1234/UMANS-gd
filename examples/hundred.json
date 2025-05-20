@@ -1,0 +1,1325 @@
+{
+	"StartNav": false,
+	"Fps": 60,
+	"Agents": [
+		{
+			"Pos": [
+				-5,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.189,
+			"MaxSpeed": 1.528,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.122,
+			"MaxSpeed": 1.685,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.169,
+			"MaxSpeed": 1.613,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.229,
+			"MaxSpeed": 1.684,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.114,
+			"MaxSpeed": 1.645,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.124,
+			"MaxSpeed": 1.596,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.175,
+			"MaxSpeed": 1.58,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.165,
+			"MaxSpeed": 1.613,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.294,
+			"MaxSpeed": 1.579,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-5,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.133,
+			"MaxSpeed": 1.585,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.288,
+			"MaxSpeed": 1.504,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.289,
+			"MaxSpeed": 1.538,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.169,
+			"MaxSpeed": 1.564,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.154,
+			"MaxSpeed": 1.543,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.224,
+			"MaxSpeed": 1.698,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.195,
+			"MaxSpeed": 1.608,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.239,
+			"MaxSpeed": 1.583,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.237,
+			"MaxSpeed": 1.671,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.183,
+			"MaxSpeed": 1.694,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-4,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.218,
+			"MaxSpeed": 1.689,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.219,
+			"MaxSpeed": 1.689,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.165,
+			"MaxSpeed": 1.686,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.241,
+			"MaxSpeed": 1.636,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.163,
+			"MaxSpeed": 1.604,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.151,
+			"MaxSpeed": 1.586,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.215,
+			"MaxSpeed": 1.69,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.259,
+			"MaxSpeed": 1.63,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.134,
+			"MaxSpeed": 1.618,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.297,
+			"MaxSpeed": 1.614,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-3,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.287,
+			"MaxSpeed": 1.563,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.245,
+			"MaxSpeed": 1.641,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.143,
+			"MaxSpeed": 1.512,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.294,
+			"MaxSpeed": 1.523,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.22,
+			"MaxSpeed": 1.549,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.209,
+			"MaxSpeed": 1.692,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.185,
+			"MaxSpeed": 1.52,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.145,
+			"MaxSpeed": 1.679,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.149,
+			"MaxSpeed": 1.648,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.143,
+			"MaxSpeed": 1.695,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-2,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.227,
+			"MaxSpeed": 1.636,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.211,
+			"MaxSpeed": 1.573,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.117,
+			"MaxSpeed": 1.692,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.181,
+			"MaxSpeed": 1.697,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.209,
+			"MaxSpeed": 1.578,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.267,
+			"MaxSpeed": 1.639,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.195,
+			"MaxSpeed": 1.698,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.233,
+			"MaxSpeed": 1.613,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.272,
+			"MaxSpeed": 1.668,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.208,
+			"MaxSpeed": 1.697,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				-1,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.216,
+			"MaxSpeed": 1.521,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.174,
+			"MaxSpeed": 1.576,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.168,
+			"MaxSpeed": 1.514,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.201,
+			"MaxSpeed": 1.506,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.212,
+			"MaxSpeed": 1.612,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.114,
+			"MaxSpeed": 1.651,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.174,
+			"MaxSpeed": 1.606,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.207,
+			"MaxSpeed": 1.515,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.256,
+			"MaxSpeed": 1.651,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.187,
+			"MaxSpeed": 1.656,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				0,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.173,
+			"MaxSpeed": 1.68,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.182,
+			"MaxSpeed": 1.591,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.145,
+			"MaxSpeed": 1.591,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.287,
+			"MaxSpeed": 1.591,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.233,
+			"MaxSpeed": 1.598,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.139,
+			"MaxSpeed": 1.54,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.168,
+			"MaxSpeed": 1.559,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.114,
+			"MaxSpeed": 1.695,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.183,
+			"MaxSpeed": 1.657,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.188,
+			"MaxSpeed": 1.542,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				1,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.155,
+			"MaxSpeed": 1.536,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.276,
+			"MaxSpeed": 1.682,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.157,
+			"MaxSpeed": 1.699,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.294,
+			"MaxSpeed": 1.552,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.134,
+			"MaxSpeed": 1.545,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.206,
+			"MaxSpeed": 1.635,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.176,
+			"MaxSpeed": 1.652,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.283,
+			"MaxSpeed": 1.629,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.299,
+			"MaxSpeed": 1.514,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.222,
+			"MaxSpeed": 1.503,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				2,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.201,
+			"MaxSpeed": 1.529,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.282,
+			"MaxSpeed": 1.625,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.169,
+			"MaxSpeed": 1.57,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.164,
+			"MaxSpeed": 1.576,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.268,
+			"MaxSpeed": 1.582,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.212,
+			"MaxSpeed": 1.656,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.113,
+			"MaxSpeed": 1.509,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.131,
+			"MaxSpeed": 1.619,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.277,
+			"MaxSpeed": 1.555,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.206,
+			"MaxSpeed": 1.67,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				3,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.207,
+			"MaxSpeed": 1.549,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				-5
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.216,
+			"MaxSpeed": 1.658,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				-4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.271,
+			"MaxSpeed": 1.634,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				-3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.177,
+			"MaxSpeed": 1.631,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				-2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.151,
+			"MaxSpeed": 1.631,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				-1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.18,
+			"MaxSpeed": 1.645,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				0
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.294,
+			"MaxSpeed": 1.539,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				1
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.116,
+			"MaxSpeed": 1.531,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				2
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.25,
+			"MaxSpeed": 1.58,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				3
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.298,
+			"MaxSpeed": 1.658,
+			"OptimizationMethod": "Gradient"
+		},
+		{
+			"Pos": [
+				4,
+				4
+			],
+			"Goal": [
+				20,
+				0
+			],
+			"PrefSpeed": 1.193,
+			"MaxSpeed": 1.528,
+			"OptimizationMethod": "Gradient"
+		}
+	],
+	"Obstacles": {
+		"Walls": [
+			{"Pos": [-0.5, -9], "Size": [12, 1]}, 
+			{"Pos": [-0.5, 8], "Size": [12, 1]},
+			{"Pos": [-6, -0.5], "Size": [1, 16]},
+			{"Pos": [5, 4], "Size": [1, 7]},
+			{"Pos": [5, -5], "Size": [1, 7]}
+		]
+	},
+	"CostFunctions": [
+		{
+			"Name": "SocialForcesAvoidance",
+			"Weight": 2
+		},
+		{
+			"Name": "GoalReachingForce",
+			"Weight": 1
+		}
+	]
+}
